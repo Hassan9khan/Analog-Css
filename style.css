@@ -1,0 +1,46 @@
+h1{
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#page {
+    max-width: 1500px;
+    min-width: 820px;
+    margin: 10px auto 10px auto;
+    padding: 10px auto 10px auto ;
+    border: 6px double #000;
+    background-color: #cfd8dc;
+}
+#navbar{
+    text-align: center;
+    width: 750px;
+    border-top: 5px double black;
+    border-bottom: 3px solid black ;
+    padding: 8px;
+    margin: 10px auto;
+}
+ul{
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bolder;
+    font-size: 20px;
+}
+li{
+    margin: 30px;
+    display: inline;
+}
+#photo{
+    
+    margin-left: 240px;
+    margin-bottom: 20px;
+}
+P{
+    font-size: 20px;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+body{
+    background-color: #cfd8dc;
+}
